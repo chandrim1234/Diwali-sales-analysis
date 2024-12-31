@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5011ab02-afca-434b-a5cf-65c302a203b7)
+
+
 # Diwali-sales-analysis
 
 To provide a full and detailed description of the uploaded Diwali Sales Analysis notebook, I need to extract the content and understand its sections thoroughly. Let me process the notebook and present a comprehensive description of its analysis.
