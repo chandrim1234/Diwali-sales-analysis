@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/5011ab02-afca-434b-a5cf-65c302a203b7)
+![image](https://github.com/user-attachments/assets/2aeb8721-3b85-4aed-826c-36c5ab0b6fc2)
+
 
 
 # Diwali-sales-analysis
